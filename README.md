@@ -10,7 +10,7 @@ Screeshots:
 <img width="1653" alt="Screenshot 2023-07-29 at 1 59 35 PM" src="https://github.com/sakethvarma397/animal-encyclopedia/assets/29940063/07a3610d-289c-4042-9703-ef1749737000">
 
 
-#Run
+# Run
 
-npm install
-npm run dev
+- npm install
+- npm run dev
